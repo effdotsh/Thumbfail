@@ -1,8 +1,5 @@
 # Thumbfail
 
-by [AI Spawn](https://www.youtube.com/channel/UC6NT7CHGhDfkamfMZswuXVQ?view_as=subscriber)
-Before using please watch [this video](https://www.youtube.com/watch?v=ow5LqJ8x9MU)
-
 https://www.youtube.com/watch?v=ow5LqJ8x9MU
 ## Install
 Install with one of the 3 methods below:
