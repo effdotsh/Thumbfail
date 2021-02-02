@@ -1,6 +1,5 @@
 # Thumbfail
 
-https://www.youtube.com/watch?v=ow5LqJ8x9MU
 ## Install
 Install with one of the 3 methods below:
 Please report an issue if you have any problems. 
